@@ -18,6 +18,9 @@
     "web": {
       "bundler": "metro"
     },
-    "scheme": "hisaab"
+    "scheme": "hisaab",
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
