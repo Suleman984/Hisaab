@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Applications/**)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}

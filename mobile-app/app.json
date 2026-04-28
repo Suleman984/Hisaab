@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Hisaab",
+    "slug": "hisaab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.hisaab.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0F0D"
+      },
+      "package": "com.hisaab.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "scheme": "hisaab"
+  }
+}
