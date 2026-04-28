@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Read(//Applications/**)",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Bash(npm install *)",
+      "Bash(npx expo *)"
     ]
   }
 }
